@@ -1,2 +1,1 @@
-# Face_Analysis_App1
- app for face feature analysis
+It utilizes cutting-edge Machine learning techniques to analyze facial skin conditions across 10 distinct categories, achieving an impressive accuracy of 97.1%. The platform seamlessly integrates an interactive mobile interface, offering users an intuitive and smooth experience for skin analysis. By harnessing machine learning-driven insights, it provides personalized skincare recommendations, ensuring accessibility, efficiency, and a user-friendly approach to modern skincare solutions.
